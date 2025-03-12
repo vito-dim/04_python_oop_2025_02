@@ -1,0 +1,9 @@
+.idea
+.vscode
+Resources_HTML_&_CSS/
+**/screenshot*
+**/*.txt
+**/*.pdf
+**/*.doc*
+**/*.pptx
+**/*.zip
