@@ -1,6 +1,7 @@
 .idea
 .vscode
 Resources_HTML_&_CSS/
+**/__pycache__*
 **/screenshot*
 **/*.txt
 **/*.pdf
